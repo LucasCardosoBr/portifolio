@@ -1,6 +1,6 @@
 # portifolio
 
-Este codigo e para o meu portifolio, porem ainda esta com pouco conteúdo
+Este codigo e para o meu portifolio, porem ainda não tem nenhum projeto colocado no portfólio ainda.
 
 [https://lucascardosobr.github.io/portifolio/](https://lucascardosobr.github.io/Portifolio/)
 
